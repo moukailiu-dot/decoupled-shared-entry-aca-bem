@@ -1,0 +1,18 @@
+{
+  "geometry": "nonconvex",
+  "subdivisions_per_cube_edge": 28,
+  "nominal_radius_m": 0.1,
+  "max_solution_dofs": 20000,
+  "nodes": 4706,
+  "elements": 4704,
+  "solution_dofs": 14118,
+  "edge_min_m": 0.0027730749519967375,
+  "edge_mean_m": 0.004704297778964275,
+  "edge_max_m": 0.007407979169620708,
+  "center_jacobian_min_m2": 1.9040948969799242e-06,
+  "center_jacobian_max_m2": 1.3146019890149892e-05,
+  "outward_center_fraction": 1.0,
+  "radius_min_m": 0.06199999999999999,
+  "radius_mean_m": 0.08800000000000001,
+  "radius_max_m": 0.10200000000000001
+}

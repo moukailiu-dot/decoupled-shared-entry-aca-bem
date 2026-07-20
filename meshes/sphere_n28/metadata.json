@@ -1,0 +1,18 @@
+{
+  "geometry": "sphere",
+  "subdivisions_per_cube_edge": 28,
+  "nominal_radius_m": 0.1,
+  "max_solution_dofs": 20000,
+  "nodes": 4706,
+  "elements": 4704,
+  "solution_dofs": 14118,
+  "edge_min_m": 0.0034477636024572334,
+  "edge_mean_m": 0.005141634211258801,
+  "edge_max_m": 0.007129235820570122,
+  "center_jacobian_min_m2": 2.6375161508336635e-06,
+  "center_jacobian_max_m2": 1.2674322128943858e-05,
+  "outward_center_fraction": 1.0,
+  "radius_min_m": 0.09999999999999998,
+  "radius_mean_m": 0.09999999999999999,
+  "radius_max_m": 0.10000000000000003
+}

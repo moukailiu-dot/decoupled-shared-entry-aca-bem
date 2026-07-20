@@ -1,0 +1,18 @@
+{
+  "geometry": "cube",
+  "subdivisions_per_cube_edge": 28,
+  "nominal_radius_m": 0.1,
+  "max_solution_dofs": 20000,
+  "nodes": 4706,
+  "elements": 4704,
+  "solution_dofs": 14118,
+  "edge_min_m": 0.004123930494211607,
+  "edge_mean_m": 0.004123930494211613,
+  "edge_max_m": 0.004123930494211624,
+  "center_jacobian_min_m2": 4.251700680272098e-06,
+  "center_jacobian_max_m2": 4.251700680272132e-06,
+  "outward_center_fraction": 1.0,
+  "radius_min_m": 0.05773502691896258,
+  "radius_mean_m": 0.07398978968369369,
+  "radius_max_m": 0.1
+}
