@@ -10,7 +10,6 @@
     "benchmark meshes and field points",
     "formal result and figure-source tables",
     "publication figures",
-    "English and Chinese manuscript documents",
     "solved COMSOL 6.4 same-mesh model and exported measurements"
   ],
   "excluded": [
@@ -18,6 +17,7 @@
     "build-system files",
     "experiment-generation scripts",
     "COMSOL Java builder",
+    "unpublished manuscript documents",
     "third-party software and licenses"
   ],
   "runtime": {
@@ -33,8 +33,7 @@
   },
   "licenses": {
     "data_meshes_figures_and_model_artifacts": "CC BY 4.0 (LICENSE-DATA)",
-    "windows_executable": "Research Evaluation Binary License v1.0 (LICENSE-BINARY-RESEARCH-ONLY.txt)",
-    "manuscript_documents": "all rights reserved unless stated separately"
+    "windows_executable": "Research Evaluation Binary License v1.0 (LICENSE-BINARY-RESEARCH-ONLY.txt)"
   },
   "source_code_included": false,
   "experiment_generation_scripts_included": false

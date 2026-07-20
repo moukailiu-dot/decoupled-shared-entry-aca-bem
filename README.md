@@ -22,7 +22,6 @@ included.
 | `data/` | Formal timing, memory, accuracy, convergence, and figure-source tables |
 | `figures/` | Publication figures in raster and vector formats |
 | `models/comsol6.4/` | Solved COMSOL 6.4 model, identical BDF mesh, and exported measurements |
-| `paper/` | English and Chinese manuscripts in Word and PDF formats |
 | `docs/` | Data dictionary and COMSOL model contract |
 | `checksums/` | SHA-256 integrity manifest |
 
@@ -76,7 +75,6 @@ restrictive `LICENSE-BINARY-RESEARCH-ONLY.txt`: it may be used for
 non-commercial research, teaching, and evaluation, but may not be
 redistributed, commercially deployed, modified, decompiled, or used to create
 derivative software. `BINARY-NOTICE.txt` provides the short-form notice.
-Manuscript documents are included as the research record; no additional rights
-are granted unless stated separately.
+The unpublished manuscript documents are not included in this archive.
 
 Repository: https://github.com/moukailiu-dot/decoupled-shared-entry-aca-bem
