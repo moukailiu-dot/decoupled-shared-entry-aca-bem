@@ -1,0 +1,18 @@
+{
+  "backend": "Python/matplotlib",
+  "figure_archetype": "four-panel mesh image plate",
+  "core_conclusion": "All four geometry stress tests use matched Q1 quadrilateral meshes with 4,706 nodes, 4,704 elements, and 14,118 system degrees of freedom.",
+  "native_element_type": "four-node Q1 quadrilateral",
+  "rendering": "Poly3DCollection of native quadrilateral faces; no plotting triangulation",
+  "common_axis_limit_m": [
+    -0.108,
+    0.108
+  ],
+  "exports": [
+    "svg",
+    "pdf",
+    "png_300dpi",
+    "tiff_600dpi"
+  ],
+  "source_data": "source_data/figure2_mesh_suite_source_data.csv"
+}
