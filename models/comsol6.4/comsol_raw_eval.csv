@@ -1,0 +1,6 @@
+% Model,Untitled.mph
+% Version,COMSOL 6.4.0.293
+% Date,"Jul 17 2026, 17:01"
+% Table,表格 1 - COMSOL PABE exact sphere_n33 mesh at 3000 Hz
+% freq (Hz),frequency_hz (Hz),sound_power_w (W),radiation_efficiency (1),surface_pressure_rms_pa (Pa),surface_pressure_relative_l2_error,pf1_real (Pa),pf1_imag (Pa),pf2_real (Pa),pf2_imag (Pa),pf3_real (Pa),pf3_imag (Pa),pf_far_real (Pa),pf_far_imag (Pa)
+3000,3000,25.230970306197523,0.967552621072252,408.4031902545504,4.6950383300729744E-4,-17.287161968768412,10.920122451537617,-17.287423287432805,10.91986210521856,-17.2874592552421,10.9198246055577,2.0213430067316764,-0.30776827693475983
