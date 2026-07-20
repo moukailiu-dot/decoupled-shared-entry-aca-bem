@@ -1,0 +1,4 @@
+method,entry_formation,aca_decisions,role
+Independent ACA,separate,independent,numerical reference
+Decoupled shared-entry ACA,shared vector entry,independent,proposed
+Common-pivot joint ACA,shared vector entry,shared,aggressive baseline

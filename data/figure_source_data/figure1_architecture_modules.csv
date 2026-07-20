@@ -1,0 +1,11 @@
+stage,module,data_contract,layer
+1,Mesh and Q1 support,"surface mesh, adjacency, nodal supports",entry formation
+2,Geometry and basis cache,"x, n, Jw, phi, surface curl, normal-shape",entry formation
+3,Singular correction builder,Duffy-6 self; 4x4 near minus 2x2 base,entry formation
+4,Vector entry evaluator,"one traversal returns V_ij, K_ij, W_ij",entry formation
+5,Sharded entry cache,257 shards; full or bounded LRU,entry formation
+6,Independent ACA controllers,"operator-specific pivots, residuals, ranks, factors",compression
+7,H-matrix operators,"V, K, W",compression
+8,Stabilized block operator,matrix-free three-field action,solution
+9,Block-Jacobi GMRES,true residual stopping,solution
+10,Acoustic outputs,"surface pressure, power, efficiency, field",postprocessing
