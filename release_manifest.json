@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "release": "v1.0.0",
+  "release_date": "2026-07-20",
+  "title": "Decoupled shared-entry ACA BEM binary and data archive",
+  "repository": "https://github.com/moukailiu-dot/decoupled-shared-entry-aca-bem",
+  "distribution_class": "binary-and-data reproducibility archive",
+  "included": [
+    "Windows x86-64 executable",
+    "benchmark meshes and field points",
+    "formal result and figure-source tables",
+    "publication figures",
+    "English and Chinese manuscript documents",
+    "solved COMSOL 6.4 same-mesh model and exported measurements"
+  ],
+  "excluded": [
+    "source code",
+    "build-system files",
+    "experiment-generation scripts",
+    "COMSOL Java builder",
+    "third-party software and licenses"
+  ],
+  "runtime": {
+    "custom_executable_platform": "Windows x86-64",
+    "comsol_model_version": "COMSOL Multiphysics 6.4.0.293",
+    "comsol_required_for_custom_executable": false,
+    "comsol_required_to_open_mph": true
+  },
+  "integrity": {
+    "algorithm": "SHA-256",
+    "manifest": "checksums/SHA256SUMS.txt",
+    "checksum_file_hashes_itself": false
+  },
+  "licenses": {
+    "data_meshes_figures_and_model_artifacts": "CC BY 4.0 (LICENSE-DATA)",
+    "windows_executable": "Research Evaluation Binary License v1.0 (LICENSE-BINARY-RESEARCH-ONLY.txt)",
+    "manuscript_documents": "all rights reserved unless stated separately"
+  },
+  "source_code_included": false,
+  "experiment_generation_scripts_included": false
+}

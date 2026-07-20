@@ -1,0 +1,12 @@
+Binary research artifact notice
+
+The Windows executable is provided solely as a binary research artifact for
+non-commercial research, teaching, evaluation, and reproduction of the
+accompanying numerical study. Source code is not included.
+
+Use of the executable is governed by
+`LICENSE-BINARY-RESEARCH-ONLY.txt`. In particular, redistribution, commercial
+or production use, modification, decompilation, disassembly, reverse
+engineering, and creation of derivative software are prohibited except to the
+limited extent that applicable law does not permit such a restriction or the
+copyright holder gives prior written permission.

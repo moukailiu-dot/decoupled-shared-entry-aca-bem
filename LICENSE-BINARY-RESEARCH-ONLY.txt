@@ -1,0 +1,106 @@
+Research Evaluation Binary License v1.0
+
+Copyright (c) 2026. All rights reserved.
+
+This license applies only to the compiled Windows executable distributed in
+`bin/windows-x86_64/` (the "Binary"). It does not apply to data, meshes,
+figures, model artifacts, or manuscript documents, which have the separate
+terms identified in the repository README.
+
+1. Acceptance
+
+By downloading, installing, executing, or otherwise using the Binary, you
+accept this license. If you do not accept it, do not use the Binary.
+
+2. Limited license grant
+
+Subject to continued compliance with this license, the copyright holder grants
+you a limited, non-exclusive, non-transferable, and non-sublicensable right to
+download and execute unmodified copies of the Binary solely for:
+
+  a. bona fide non-commercial academic or scientific research;
+  b. classroom teaching or supervised student research; and
+  c. internal evaluation and reproduction of the accompanying numerical study.
+
+No right is granted to use the Binary for commercial advantage, monetary
+compensation, production operations, or services supplied to a third party.
+
+3. Publication of results
+
+You may publish numerical outputs, benchmark measurements, and scientific
+conclusions produced through permitted use of the Binary, provided that you:
+
+  a. identify the Binary and its release version;
+  b. cite the accompanying manuscript or repository;
+  c. describe material changes in hardware, input data, and run settings;
+  d. do not imply endorsement by the copyright holder; and
+  e. do not include or redistribute the Binary with the publication.
+
+4. Restrictions
+
+Except where the copyright holder gives prior written permission, you may not:
+
+  a. sell, license, sublicense, rent, lease, host, mirror, publish, distribute,
+     transfer, or otherwise make the Binary available to another person;
+  b. use the Binary in a commercial product, paid consulting engagement,
+     hosted service, production workflow, or safety-critical system;
+  c. modify, translate, adapt, patch, merge, or create derivative software from
+     the Binary;
+  d. reverse engineer, decompile, disassemble, decode, inspect, or otherwise
+     attempt to derive source code, non-public algorithms, data structures, or
+     internal implementation details from the Binary;
+  e. bypass or defeat any technical restriction, integrity check, access
+     control, or usage limitation associated with the Binary; or
+  f. remove, obscure, or alter copyright, attribution, or license notices.
+
+The restrictions in this section apply only to the extent permitted by
+applicable law. Where applicable law gives you a non-waivable right, this
+license does not limit that right.
+
+5. Ownership and reserved rights
+
+The Binary is licensed, not sold. The copyright holder retains all title,
+copyright, trade-secret, and other intellectual-property rights in the Binary.
+No source code is licensed or supplied. No patent, trademark, trade-name, or
+branding license is granted. All rights not expressly granted are reserved.
+
+6. Third-party software
+
+This license does not grant rights to COMSOL Multiphysics or any other
+third-party software, library, runtime, format, or trademark. Any such material
+remains subject to its own terms.
+
+7. No support or maintenance
+
+The copyright holder has no obligation to provide installation support,
+maintenance, updates, corrections, compatibility work, or continued access to
+the Binary.
+
+8. Disclaimer of warranty
+
+THE BINARY IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTIES OR
+CONDITIONS OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, ACCURACY, NON-INFRINGEMENT, AND TITLE. YOU ASSUME ALL
+RISK ARISING FROM USE OF THE BINARY AND MUST INDEPENDENTLY VERIFY ALL RESULTS.
+
+9. Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER WILL NOT
+BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY,
+CONSEQUENTIAL, OR OTHER DAMAGES, OR FOR LOSS OF DATA, PROFITS, REVENUE,
+GOODWILL, OR BUSINESS INTERRUPTION, ARISING FROM OR RELATED TO THE BINARY OR
+THIS LICENSE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+10. Termination
+
+Your rights under this license terminate automatically when you breach any
+term. On termination, you must stop using the Binary and delete all copies in
+your possession or control. Sections 4 through 11 survive termination.
+
+11. Severability and permissions
+
+If a provision is unenforceable, it will be limited to the minimum extent
+necessary and the remaining provisions will continue in effect. Any use not
+expressly permitted requires prior written permission from the copyright
+holder. A permission for one use does not waive the requirements for any other
+use.
